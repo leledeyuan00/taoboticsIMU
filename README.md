@@ -6,7 +6,7 @@
 
 ## Setting the permission
 
-`sudo chomd +x /dev/ttyUSB*`
+`sudo chmod +x /dev/ttyUSB*`
 
 ## Setting the target devcie on Python code
 
